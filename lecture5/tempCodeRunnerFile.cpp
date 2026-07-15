@@ -1,0 +1,1 @@
+2 one to n pyramid pattern printing
